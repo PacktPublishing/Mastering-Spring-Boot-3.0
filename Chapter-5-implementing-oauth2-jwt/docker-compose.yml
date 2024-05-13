@@ -25,7 +25,7 @@ services:
     ports:
       - "5433:5432"
   keycloak:
-    image: jboss/keycloak:latest
+    image: bitnami/keycloak:latest
     restart: always
     environment:
       KEYCLOAK_USER: admin
