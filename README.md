@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/mastering-spring-boot-30/9781803230788"><img src="https://content.packt.com/B18400/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Spring Security - Fourth Edition](https://www.packtpub.com/product/mastering-spring-boot-30/9781803230788), published by Packt.
+This is the code repository for [Mastering Spring Boot 3.0](https://www.packtpub.com/product/mastering-spring-boot-30/9781803230788), published by Packt.
 
 **A comprehensive guide to building scalable and efficient backend systems with Java and Spring**
 
